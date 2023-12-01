@@ -1,1 +1,1 @@
-in this web application i made a counter using redux and react-redux
+in this web application i made a counter using redux and react-redux and it is a basic application for counter with increment and decrement 
